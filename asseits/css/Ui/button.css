@@ -1,0 +1,17 @@
+.base-button{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    padding: 18px 22px;
+    border-radius: 4px;
+}
+
+.base-button:hover{
+    cursor: pointer;
+}
+
+
+.base-button--primary{
+    color: var(--white);
+    background-color: var(--primery);
+}

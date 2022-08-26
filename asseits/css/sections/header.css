@@ -1,0 +1,40 @@
+.header{
+    /* position: absolute; */
+    width: 100%;
+    padding-top: 57px;
+    padding-bottom: 198px;
+    
+}
+
+.header__contener{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.text--primary{
+    font-size: 30px;
+    font-weight: 700;
+    color:  var(--primery);
+}
+
+.header__logo{
+        font-size: 30px;
+        font-weight: 700;
+        color: var(--secendry);
+}
+
+.header__menu{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+
+.header__menu-item:not(:last-child){
+    margin-right: 72px;
+
+}
+
+

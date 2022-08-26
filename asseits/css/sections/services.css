@@ -1,0 +1,124 @@
+
+
+.services__title{
+    text-align: center;
+    padding-top: 192px;
+    color: var(--primery);
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 40px;
+}
+
+.services__sbtitle{
+    color: var(--secendry);
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 72px;
+    text-align: center;
+    padding-bottom: 58px;
+}
+
+
+
+.services__decscripton-block{
+    background: #FFF1F9;
+    text-align: center;
+    margin-left: 30px;
+    
+}
+
+.services__decscripton-img{
+    padding-bottom: 42px;
+    padding-top: 56px;
+}
+
+.services__decscripton-title{
+    color: var(--secendry);
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 72px;
+}
+
+.services__decscripton-text{
+    color: var(--secondry-line);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    padding-bottom: 23px;
+    padding-left: 23px;
+    padding-right: 23px;
+   
+}
+
+.services__decscripton{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.services__decscripton-block:nth-child(3){
+    background-color: var(--primery);
+    
+
+   
+}
+
+
+.services__decscription-block2{
+    width: 50%;
+}
+.services__decscription-block3{
+    width: 50%;
+}
+
+.services__decscription2{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-top: 203px;
+}
+
+.services__decscription-img2{
+    width: 100%;
+    filter: contrast(0.5);
+}
+
+.services__decscription-block3-text{
+    color: var(--primery);
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 40px;
+    padding-bottom: 15px;
+}
+
+
+.services__decscription-block3-title{
+    color: var(--secendry);
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 62px;
+    padding-bottom: 24px;
+}
+
+.services__decscription-block3-text2{
+    color: var(--secondry-line);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    padding-bottom: 40px;
+}
+
+.services__button{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    /* margin-left: 79px; */
+}
+
+.services__button-icon{
+    margin-left: 19px;
+}
+
+
+
+
